@@ -22,7 +22,7 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 Execute o seguinte comando para clonar o projeto.
 
 ```bash
-git clone git@github.com:wellingtonrsdev/desafio-padroes-de-projeto.git
+git clone git@github.com:wellingtonrsdev/Desafio_padroes_de_projeto.git
 ```
 
 <h3>Executando o projeto</h3>
